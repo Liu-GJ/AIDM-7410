@@ -267,16 +267,16 @@ cities with abundant medical resources such as Sichuan and Xi'an.
 
 | **Government Weibo account** | **Number of followers** |
 |------------------------------|-------------------------|
-| 中国-长沙                    | 31913                   |
-| 西安发布                     | 1510000                 |
-| 天津发布                     | 2630000                 |
-| 上海发布                     | 9480000                 |
-| 山东发布                     | 3140000                 |
-| 北京发布                     | 8700000                 |
-| 广州市政府新闻办             | 1080000                 |
-| 重庆发布                     | 1890000                 |
-| 成都发布                     | 10530000                |
-| 精彩河南                     | 6160000                 |
+| China-Changsha               | 31913                   |
+| Published in Xi'an           | 1510000                 |
+| Published in Tianjin         | 2630000                 |
+| Published in Shanghai        | 9480000                 |
+| Published in Shandong        | 3140000                 |
+| Beijing release              | 8700000                 |
+| Guangzhou Municipal Government Information Office    | 1080000                 |
+| Published in Chongqing       | 1890000                 |
+| Published in Chengdu         | 10530000                |
+| Wonderful Henan              | 6160000                 |
 
 | **Local Health Commission Weibo account** | **Number of followers** |
 |-------------------------------------------|-------------------------|
