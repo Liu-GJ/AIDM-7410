@@ -34,57 +34,55 @@ different roles, use different methods, and have different focuses.
 
 **Contents**
 
-Introduction 4
+Introduction 
 
-Literature review 5
+Literature review 
 
-Government agencies and social media 5
+Government agencies and social media 
 
-Hospital and social media 6
+Hospital and social media 
 
-Crisis and social media 7
+Crisis and social media 
 
-Research Questions 7
+Research Questions 
 
-Research Methods and Sample Collection 8
+Research Methods and Sample Collection 
 
-Selection of Target Account 8
+Selection of Target Account 
 
-Selection of Time Frame 8
+Selection of Time Frame 
 
-Sampling Method 9
+Sampling Method 
 
-Selection of Analysis Unit 9
+Selection of Analysis Unit 
 
-Follow the official Weibo account. 9
+Follow the official Weibo account. 
 
-Weibo sending frequency 9
+Weibo sending frequency 
 
-Use of entertainment elements 10
+Use of entertainment elements 
 
-ontent object of Weibo content 10
+ontent object of Weibo content 
 
-Whether to forward Weibo of other accounts, and the type of source Weibo
-account 10
+Whether to forward Weibo of other accounts, and the type of source Weibo account 
 
 Whether to mention other accounts, and the type of Weibo account mentioned
-10
 
-Whether to get a comment 10
+Whether to get a comment 
 
-Whether to reply to comments 10
+Whether to reply to comments 
 
-Weibo content subject 10
+Weibo content subject 
 
-Research Result 11
+Research Result 
 
-Discussion 23
+Discussion 
 
-Reference 30
+Reference 
 
-Appendix A． Hospital name in Chinese and English 33
+Appendix A． Hospital name in Chinese and English 
 
-Appendix B． Codebook 34
+Appendix B． Codebook 
 
 # Introduction
 
