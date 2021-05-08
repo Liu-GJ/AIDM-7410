@@ -38,43 +38,43 @@ Introduction 4
 
 Literature review 5
 
->   Government agencies and social media 5
+Government agencies and social media 5
 
->   Hospital and social media 6
+Hospital and social media 6
 
->   Crisis and social media 7
+Crisis and social media 7
 
 Research Questions 7
 
 Research Methods and Sample Collection 8
 
->   Selection of Target Account 8
+Selection of Target Account 8
 
->   Selection of Time Frame 8
+Selection of Time Frame 8
 
->   Sampling Method 9
+Sampling Method 9
 
->   Selection of Analysis Unit 9
+Selection of Analysis Unit 9
 
->   Follow the official Weibo account. 9
+Follow the official Weibo account. 9
 
->   Weibo sending frequency 9
+Weibo sending frequency 9
 
->   Use of entertainment elements 10
+Use of entertainment elements 10
 
->   Content object of Weibo content 10
+ontent object of Weibo content 10
 
->   Whether to forward Weibo of other accounts, and the type of source Weibo
->   account 10
+Whether to forward Weibo of other accounts, and the type of source Weibo
+account 10
 
->   Whether to mention other accounts, and the type of Weibo account mentioned
->   10
+Whether to mention other accounts, and the type of Weibo account mentioned
+10
 
->   Whether to get a comment 10
+Whether to get a comment 10
 
->   Whether to reply to comments 10
+Whether to reply to comments 10
 
->   Weibo content subject 10
+Weibo content subject 10
 
 Research Result 11
 
